@@ -20,7 +20,7 @@ focusing on the oxygen reduction reaction for battery materials.
 
 #### Postdoctoral Research Associate at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
 * I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
-* Led team in creating a CURATOR package that minimize the human effort to develop robust machine learning potential
+* Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for energy materials
 * Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
 * Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
 * Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory
