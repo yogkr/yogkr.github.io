@@ -25,7 +25,7 @@ in industrial research and development, leveraging my analytical prowess and sof
 * Investigated hydrogen production through water splitting for sustainable energy solutions
 * Conducted research on dye-sensitized solar cells to optimize photovoltaic performance
 * Collaborated with colleagues to explore interdisciplinary approaches in energy research
-* Mentored a master's and PhD students in conducting innovative research projects, fostering skills development and knowledge transfer
+* Mentored master's and PhD students in conducting innovative research projects, fostering skills development and knowledge transfer
 
 
 Here is my [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} and [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} for more details.
