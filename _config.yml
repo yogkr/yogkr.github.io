@@ -63,10 +63,10 @@ minima:
 header_pages:
   - index.markdown
   # - research.markdown
-  - teaching.markdown
-  - blogs.markdown
-  - hobbies.markdown
-  - contacts.markdown 
+  # - teaching.markdown
+  # - blogs.markdown
+  # - hobbies.markdown
+  # - contacts.markdown 
 
 # social_links:
 #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
