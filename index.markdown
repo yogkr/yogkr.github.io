@@ -3,22 +3,25 @@ layout: page
 title: Home
 ---
 
-![Chiku Parida](assets/fig/cpp.JPG){: style="display: block; margin: 0 auto;" width="360px"}
+<p><img src="assets/fig/cpp.JPG" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
 
-As a skilled Postdoctoral Researcher, I specialize in computational materials science, machine learning, and molecular dynamics. My track record demonstrates groundbreaking research in energy materials and chemical reaction dynamics, alongside extensive experience in teaching and collaborative research projects. As a team player, I seamlessly collaborate; as an individual worker, I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.
+As a skilled Postdoctoral Researcher, I specialize in computational materials science, machine learning, and molecular dynamics.
+My track record demonstrates groundbreaking research in energy materials and chemical reaction dynamics, alongside extensive
+experience in teaching and collaborative research projects. As a team player, I seamlessly collaborate; as an individual worker,
+I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
+in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.
 
-I am currently a Postdoctoral Researcher, focusing on the oxygen reduction reaction for battery materials.
+# Experience 
 
-# Experience
+##### Postdoctoral Research Associate at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
+* I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
+* Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for energy materials
+* Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
+* Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
+* Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory
 
-#### Postdoctoral Research Associate at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
-- I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
-- Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for energy materials
-- Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
-- Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
-- Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory
 
-Here is my [Academic CV](assets/Yogesh_CV.pdf){:target="_blank"} and [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} for more details.
+Here is my [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} and [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} for more details.
 
 *Note: This site is under maintenance!*
 
