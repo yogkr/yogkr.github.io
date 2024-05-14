@@ -27,16 +27,18 @@ in industrial research and development, leveraging my analytical prowess and sof
 * Collaborated with colleagues to explore interdisciplinary approaches in energy research
 * Mentored master's and PhD students in conducting innovative research projects, fostering skills development and knowledge transfer
 
+For a comprehensive overview of my academic and industrial experiences, please refer to the following documents:
 
-Here is my [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} and [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} for more details.
-
-
+* [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} Delve into my academic journey, research endeavors, and scholarly achievements
+* [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} Explore my professional trajectory, industry engagements, and contributions to applied research and development
+  
+These documents offer detailed insights into my qualifications, accomplishments, and areas of expertise.
 
 ---------------------------------
 <br>
 
 <!-- 
-comment out the unecessary things
+comment out the unnecessary things
  -->
 
 
