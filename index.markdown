@@ -7,13 +7,16 @@ title: Home
 
 I am a doctoral researcher at [DTU Energy](https://www.energy.dtu.dk/){:target="_blank"}, where I am working on the inverse design of solid electrolytes for solid-state batteries (for more information, please see my research section). [Prof. Juan Maria García Lastra](https://orbit.dtu.dk/en/persons/juan-maria-garc%C3%ADa-lastra){:target="_blank"} and [Dr. Arghya Bhowmik](https://orbit.dtu.dk/en/persons/arghya-bhowmik){:target="_blank"} are the project supervisors at DTU Energy. This project is associated with the [University of Queensland](https://aibn.uq.edu.au/){:target="_blank"}. [Prof. Debra Bernhardt](https://aibn.uq.edu.au/bernhardt){:target="_blank"} from the University of Queensland is our collaborator. She is co-supervising the project and supporting my external stay in Australia.
 
+I am currently a postdoctoral researcher at [DTU Energy](https://www.energy.dtu.dk/){:target="_blank"}, focusing on the oxygen reduction reaction for battery materials. 
+
+
 
 I am extremely grateful to receive funding from the following sources:     
 
 * Technical University of Denmark - DTU 
 * ALLIANCE Grant
 
-Here is my [CV](assets/files/Chikuparida_dtu_energy_cv.pdf){:target="_blank"} for more details.
+Here is my acadamic [CV](assets/Yogesh_CV.pdf){:target="_blank"} for more details.
 
 *Note: This site is under maintenance!*
 
