@@ -23,7 +23,7 @@ email: chipa@dtu.dk
 description: "Descriptions will be here."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: G-J6DHQ5E15W
+#google_analytics: G-J6DHQ5E15W
 
 # Build settings
 theme: minima
@@ -62,11 +62,11 @@ minima:
 
 header_pages:
   - index.markdown
-  - research.markdown
+  # - research.markdowen
   - teaching.markdown
-  - blogs.markdown
-  - hobbies.markdown
-  - contacts.markdown 
+  # - blogs.markdown
+  # - hobbies.markdown
+  # - contacts.markdown 
 
 # social_links:
 #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
