@@ -16,9 +16,9 @@ I am currently a ,
 focusing on the oxygen reduction reaction for battery materials. 
 
 
-#### Experience 
+# Experience 
 
-# Postdoctoral Research Associate at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
+#### Postdoctoral Research Associate at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
 * I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
 * Led team in creating a CURATOR package that minimize the human effort to develop robust machine learning potential
 * Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
