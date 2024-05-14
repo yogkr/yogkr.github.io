@@ -16,7 +16,7 @@ I am extremely grateful to receive funding from the following sources:
 * Technical University of Denmark - DTU 
 * ALLIANCE Grant
 
-Here is my acadamic [CV](assets/Yogesh_CV.pdf){:target="_blank"} for more details.
+Here is my [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} and [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} for more details.
 
 *Note: This site is under maintenance!*
 
