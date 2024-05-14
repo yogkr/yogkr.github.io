@@ -5,21 +5,30 @@ title: Home
 
 <p><img src="assets/fig/cpp.JPG" alt="Chiku Parida" align="middle" width="360px"></p>
 
-I am a doctoral researcher at [DTU Energy](https://www.energy.dtu.dk/){:target="_blank"}, where I am working on the inverse design of solid electrolytes for solid-state batteries (for more information, please see my research section). [Prof. Juan Maria García Lastra](https://orbit.dtu.dk/en/persons/juan-maria-garc%C3%ADa-lastra){:target="_blank"} and [Dr. Arghya Bhowmik](https://orbit.dtu.dk/en/persons/arghya-bhowmik){:target="_blank"} are the project supervisors at DTU Energy. This project is associated with the [University of Queensland](https://aibn.uq.edu.au/){:target="_blank"}. [Prof. Debra Bernhardt](https://aibn.uq.edu.au/bernhardt){:target="_blank"} from the University of Queensland is our collaborator. She is co-supervising the project and supporting my external stay in Australia.
+As a skilled Postdoctoral Researcher, I specialize in computational materials science, machine learning, and molecular
+dynamics. My track record demonstrates groundbreaking research in energy materials and chemical reaction dynamics,
+alongside extensive experience in teaching and collaborative research projects. As a team player, I seamlessly collaborate;
+as an individual worker, I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently
+seeking challenging opportunities in industrial research and development, leveraging my analytical prowess and soft skills
+to drive innovation and problem-solving.
 
-I am currently a postdoctoral researcher at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}, focusing on the oxygen reduction reaction for battery materials. 
+I am currently a ,
+focusing on the oxygen reduction reaction for battery materials. 
 
 
+#### Experience 
 
-I am extremely grateful to receive funding from the following sources:     
+# Postdoctoral Research Associate at DTU Energy with [Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
+* I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
+* Led team in creating a CURATOR package that minimize the human effort to develop robust machine learning potential
+* Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
+* Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
+* Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory
 
-* Technical University of Denmark - DTU 
-* ALLIANCE Grant
 
 Here is my [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} and [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} for more details.
 
 *Note: This site is under maintenance!*
-
 
 ---------------------------------
 <br>
