@@ -23,7 +23,7 @@ email: yogeshwaran.krishna@gmail.com
 description: "Yogeshwaran Krishnan"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# google_analytics: G-0SS74FEYWM
+google_analytics: G-0SS74FEYWM
 
 # Build settings
 theme: minima
