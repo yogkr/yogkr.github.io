@@ -24,6 +24,9 @@
     - src: /assets/fig/neon.png
       title: Neon release from clathrate hydrates
       alt: UCD Ireland
+    - src: /assets/fig/tryptophan.pdf
+      title: Tryptophan
+      alt: IIT Jodhpur
  
 
   settings:
