@@ -19,28 +19,11 @@ We looked into the $O_2$ reduction by protons and alkali metal ions in a nonaque
 
 
 ### University College Dublin ([UCD](https://www.ucd.ie/){:target="_blank"})
-#### Nonequilibrium Dynamics with AI/ML potentials at the Solid-Liquid Interface, with ([Asso. Prof Heine A Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"})
+#### Nonequilibrium Dynamics with AI/ML potentials at the Solid-Liquid Interface, with ([Prof Niall J. English]([https://orbit.dtu.dk/en/persons/heine-anton-hansen](https://people.ucd.ie/niall.english)){:target="_blank"})
 
 #### Description: 
+Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4(001) surface, shedding light on the impact of dopant materials and their potential energy surfaces.
 
-The focus of the Volta team is to bring innovation in energy materials and eco-friendly materials design, especially for solid-state batteries (SSBs), electrocatalysts, environmentally friendly beauty products, drug design and discovery, etc.
-#### Involvements:
-- High-throughput Discovery of Solid Electrolyte for Na-Ion Batteries
-- Machine Learning Interatomic Potentials for Interfaces
-- Potential environmentally friendly materials for various applications
-
-------------------------------------
-
-
-
----------------------------------
-
-
-
-### Publications
-
-Link to the publication site... 
-
-
-#### Selected works
+#### Selected Publications
+- Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
