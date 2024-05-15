@@ -2,9 +2,11 @@
 layout: page
 title: Research
 permalink: /research/
+---
+<!--
 image_sliders:
   - slider2
----
+-->
 
 ### Research
 
