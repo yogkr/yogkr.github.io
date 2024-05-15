@@ -11,11 +11,6 @@ experience in teaching and collaborative research projects. As a team player, I 
 I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
 in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.
 
-# Profile
-- B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
-- M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
-- Ph.D., University College Dublin, Dublin. Ireland (May 2021)
-- Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
 
 # Experience 
 
@@ -39,6 +34,13 @@ For a comprehensive overview of my academic and industrial experiences, please r
 * [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} Explore my professional trajectory, industry engagements, and contributions to applied research and development
   
 These documents offer detailed insights into my qualifications, accomplishments, and areas of expertise.
+
+# Profile
+
+  - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
+  - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
+  - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
+  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
 
 ---------------------------------
 <br>
