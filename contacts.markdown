@@ -8,18 +8,18 @@ permalink: /contacts/
 
 Please fill out the form below to get in touch with us.
 
-## Name
+<form action="#" method="post">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" placeholder="Enter your full name"><br><br>
 
-[Your Name]
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" placeholder="Enter your email address"><br><br>
 
-## Email
+  <label for="phone">Phone:</label><br>
+  <input type="tel" id="phone" name="phone" placeholder="Enter your phone number"><br><br>
 
-[Your Email]
+  <label for="message">Message:</label><br>
+  <textarea id="message" name="message" placeholder="Type your message here" rows="4" cols="50"></textarea><br><br>
 
-## Phone
-
-[Your Phone Number]
-
-## Message
-
-[Your Message]
+  <input type="submit" value="Send">
+</form>
