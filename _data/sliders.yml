@@ -3,9 +3,9 @@
   captions: true
   images:
 
-#    - src: /assets/fig/ml.png
-#      title: CURATOR Active Learning framework
-#      alt: DTU Denmark
+    - src: /assets/fig/ml.png
+      title: CURATOR Active Learning framework
+      alt: DTU Denmark
 #    - src: /assets/fig/oer.png
 #      title: Unifying ORR and OER
 #      alt: DTU Denmark 
