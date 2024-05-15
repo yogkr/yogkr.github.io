@@ -6,14 +6,14 @@ permalink: /contacts/
 
 # Contacts
 
-Please fill out the form below to get in touch with us.
+Please fill out the form below to get in touch with me!
 
 <form action="#" method="post">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" placeholder="Enter your full name"><br><br>
+  <label for="name">Name: *</label><br>
+  <input type="text" id="name" name="name" placeholder="Enter your full name" required><br><br>
 
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email" placeholder="Enter your email address"><br><br>
+  <label for="email">Email: *</label><br>
+  <input type="email" id="email" name="email" placeholder="Enter your email address" required><br><br>
 
   <label for="phone">Phone:</label><br>
   <input type="tel" id="phone" name="phone" placeholder="Enter your phone number"><br><br>
@@ -23,3 +23,4 @@ Please fill out the form below to get in touch with us.
 
   <input type="submit" value="Send">
 </form>
+
