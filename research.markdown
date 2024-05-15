@@ -19,7 +19,7 @@ We looked into the $O_2$ reduction by protons and alkali metal ions in a nonaque
 
 
 ### University College Dublin ([UCD](https://www.ucd.ie/){:target="_blank"})
-#### Nonequilibrium Dynamics with AI/ML potentials at the Solid-Liquid Interface, with ([Prof Niall J. English]([https://orbit.dtu.dk/en/persons/heine-anton-hansen](https://people.ucd.ie/niall.english)){:target="_blank"})
+#### Molecular simulation of energy-transfer processes at interfaces, with ([Prof Niall J. English]([https://orbit.dtu.dk/en/persons/heine-anton-hansen](https://people.ucd.ie/niall.english)){:target="_blank"})
 
 #### Description: 
 Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4(001) surface, shedding light on the impact of dopant materials and their potential energy surfaces.
