@@ -9,9 +9,9 @@ image_sliders:
 -->
 
 ### Research
-
+<!--
 {% include slider.html selector="slider2" %}
-
+-->
 ### Technical University of Denmark ([DTU](https://www.dtu.dk/english/){:target="_blank"})
 #### Nonequilibrium Dynamics with AI/ML potentials at the Solid-Liquid Interface
 
