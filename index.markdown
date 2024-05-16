@@ -35,13 +35,12 @@ For a comprehensive overview of my academic and industrial experiences, please r
   
 These documents offer detailed insights into my qualifications, accomplishments, and areas of expertise.
 
-# Profile
+# Education
 
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
   - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
-
 ---------------------------------
 <br>
 
