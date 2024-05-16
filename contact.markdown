@@ -40,7 +40,7 @@ Please fill out the form below to get in touch with me!
     });
   }
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCaJI21DqAtxCNnLrorlyGV7MSS7fM6Z0_Kscig&callback=initMap" async defer></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCaJI21DqAtxCNnLrorlyGV7MSS7fM6Z0&callback=initMap" async defer></script>
 
 
 
