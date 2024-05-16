@@ -4,28 +4,28 @@
   images:
 
     - src: /assets/fig/ml.png
-      title: CURATOR Active Learning framework
+      title: 
       alt: DTU Denmark
-#    - src: /assets/fig/oer.png
-#      title: Unifying ORR and OER
-#      alt: DTU Denmark 
+    - src: /assets/fig/oer.png
+      title: 
+      alt: DTU Denmark 
     - src: /assets/fig/polymer.png
-      title: Ion-solvating membranes degradation
+      title: 
       alt: DTU Denmark
-    - src: /assets/fig/dopeing.png
-      title:  N–Porous carbon for highly efficient electrocatalysis
-      alt: KNU Korea
+    - src: /assets/fig/doping.png
+      title: 
+      alt: DTU Denmark/KNU Korea
     - src: /assets/fig/cyclo.png
-      title: Cyclodextrin host-guest complexes
+      title:
       alt: IIT Jodhpur
     - src: /assets/fig/neon2.png
-      title: Hydrogen release from clathrate hydrates
+      title: 
       alt: UCD Ireland
     - src: /assets/fig/neon.png
-      title: Neon release from clathrate hydrates
+      title: 
       alt: UCD Ireland
     - src: /assets/fig/tryptophan.png
-      title: Tryptophan
+      title: 
       alt: IIT Jodhpur
  
 
