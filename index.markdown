@@ -5,12 +5,11 @@ title: Home
 
 <p><img src="assets/fig/cpp.JPG" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
 
-As a skilled Postdoctoral Researcher, I specialize in computational materials science, machine learning, and molecular dynamics.
-My track record demonstrates research in energy materials, catalysis, and chemical reaction dynamics, alongside extensive
+<p style="text-align:justify;">As a skilled Postdoctoral Researcher, I specialize in computational materials science, machine learning, 
+  and molecular dynamics. My track record demonstrates research in energy materials, catalysis, and chemical reaction dynamics, alongside extensive
 experience in teaching and collaborative research projects. As a team player, I seamlessly collaborate; as an individual worker,
 I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
-in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.
-
+in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.</p>
 
 # Experience 
 
