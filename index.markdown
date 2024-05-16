@@ -14,19 +14,19 @@ in industrial research and development, leveraging my analytical prowess and sof
 # Experience 
 
 #### Postdoctoral Research Associate at Technical University of Denmark (DTU) Energy with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}<br />
-* Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for energy materials<br />
+* Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for interface materials<br />
 * Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials<br />
+* Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory(DFT)<br />
 * Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials<br />
 * I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials<br />
-* Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory<br />
 
 #### Doctor of Philosophy at University College Dublin with [Prof. Niall J. English](https://people.ucd.ie/niall.english){:target="_blank"}
-* Explored hydrogen storage and release mechanisms to enhance energy efficiency
-* Conducted research on dye-sensitized solar cells to optimize photovoltaic performance
+* Investigated Hydrogen production through water splitting for sustainable energy solutions
 * Collaborated with colleagues to explore interdisciplinary approaches in energy research
-* Investigated hydrogen production through water splitting for sustainable energy solutions
-* Mentored master's and PhD students in conducting innovative research projects, fostering skills development and knowledge transfer
-
+* Conducted research on dye-sensitized solar cells to optimize photovoltaic performance
+* Explored hydrogen storage and release mechanisms to enhance energy efficiency
+* Mentored master's and PhD students in conducting innovative research projects
+  
 For a comprehensive overview of my academic and industrial experiences, please refer to the following documents:
 
 * [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} delve into my academic journey, research endeavors, and scholarly achievements
