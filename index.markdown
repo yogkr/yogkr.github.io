@@ -41,6 +41,7 @@ These documents offer detailed insights into my qualifications, accomplishments,
   - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
+    
 ---------------------------------
 <br>
 
