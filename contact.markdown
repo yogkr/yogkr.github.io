@@ -23,6 +23,7 @@ Please fill out the form below to get in touch with me!
 
   <input type="submit" value="Send">
 </form>
+<br>
 
 <!-- Embed Google Maps -->
 <div id="map" style="height: 400px; width: 100%;"></div>
