@@ -36,9 +36,6 @@
     - src: /assets/fig/fe3co4.png
       title: 
       alt: UCD Ireland
-    - src: /assets/fig/cyclo.png
-      title: 
-      alt: IIT Jodhpur
  
 
   settings:
@@ -46,7 +43,7 @@
     maxHeight: 900
     effect: "'fade'"
     interval: 5000
-    transitionDuration: 500
+    transitionDuration: 300
 
 
 
