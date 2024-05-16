@@ -9,7 +9,7 @@ title: Home
   and molecular dynamics. My track record demonstrates research in energy materials, catalysis, and chemical reaction dynamics, alongside extensive
 experience in teaching and collaborative research projects. As a team player, I seamlessly collaborate; as an individual worker,
 I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
-in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.</p>
+in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.
 
 # Experience 
 
@@ -39,7 +39,7 @@ These documents offer detailed insights into my qualifications, accomplishments,
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
   - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
-  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
+  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)</p>
     
 ---------------------------------
 <br>
