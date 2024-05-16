@@ -9,16 +9,16 @@ title: Home
   and molecular dynamics. My track record demonstrates research in energy materials, catalysis, and chemical reaction dynamics, alongside extensive
 experience in teaching and collaborative research projects. As a team player, I seamlessly collaborate; as an individual worker,
 I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
-in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.
+in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.</p>
 
 # Experience 
 
-#### Postdoctoral Research Associate at Technical University of Denmark (DTU) Energy with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
-* I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
-* Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for energy materials
-* Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
-* Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
-* Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory
+<p style="text-align:justify;">#### Postdoctoral Research Associate at Technical University of Denmark (DTU) Energy with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}<br />
+* I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials<br />
+* Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for energy materials<br />
+* Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials<br />
+* Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials<br />
+* Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory</p><br />
 
 #### Doctor of Philosophy at University College Dublin with [Prof. Niall J. English](https://people.ucd.ie/niall.english){:target="_blank"}
 * Explored hydrogen storage and release mechanisms to enhance energy efficiency
@@ -39,7 +39,7 @@ These documents offer detailed insights into my qualifications, accomplishments,
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
   - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
-  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)</p>
+  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
     
 ---------------------------------
 <br>
