@@ -3,9 +3,9 @@
   captions: true
   images:
 
-    - src: /assets/fig/edx.png
+    - src: /assets/fig/fe3co4.png
       title: 
-      alt: PSG Tech, India
+      alt: UCD Ireland
     - src: /assets/fig/ml.png
       title: 
       alt: DTU Denmark 
@@ -27,15 +27,18 @@
     - src: /assets/fig/doping.png
       title: 
       alt: DTU Denmark/KNU Korea
+    - src: /assets/fig/gas.png
+      title: 
+      alt: UCD Ireland 
     - src: /assets/fig/cyclo.png
       title:
       alt: IIT Jodhpur
     - src: /assets/fig/glycine.png
       title: 
       alt: IIT Jodhpur
-    - src: /assets/fig/fe3co4.png
+    - src: /assets/fig/edx.png
       title: 
-      alt: UCD Ireland
+      alt: PSG Tech, India
  
 
   settings:
