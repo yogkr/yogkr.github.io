@@ -11,10 +11,13 @@ experience in teaching and collaborative research projects. As a team player, I 
 I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
 in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.</p>
 
-<h1><b>Heading 1</b></h1>
-<h2><b>Heading 2</b></h2>
-<h3><b>Heading 3</b></h3>
-<h4><b>Heading 4</b></h4>
+**# Heading 1**
+
+**## Heading 2**
+
+**### Heading 3**
+
+**#### Heading 4**
 
 # Experience 
 
