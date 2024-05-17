@@ -48,9 +48,9 @@ in industrial research and development, leveraging my analytical prowess and sof
 ## Profile
 
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (May 2024)
-  - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
+  - Ph.D., University College Dublin, Dublin. Ireland (March 2021)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
-  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
+  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2012)
 
 For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](assets/Yogesh_CV.pdf){:target="_blank"} which delves into my academic journey, research endeavors, and scholarly achievements.
 <!--
