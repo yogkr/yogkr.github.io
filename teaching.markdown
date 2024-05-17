@@ -8,7 +8,7 @@ permalink: /teaching/
 ### Teaching Assistant
 ([CHEN10040: Introduction to Engineering Computing](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=CHEN10040){:target="_blank"})
 <p style="text-align:justify;">This module gave students a basic understanding of computers, software, and computer systems with an emphasis on how to use them practically to solve problems.
-  Students were taught programming in Microsoft ExcelTM and MATLAB<sup>TM</sup> environments through a structured curriculum, which allowed them to work on engineering-based case studies and develop critical problem-solving abilities. In addition to real-world case studies, the topics covered included data management, algorithm development, Excel<sup>TM</sup> capabilities including data analysis and optimization, and MATLAB<sup>TM</sup> programming basics like vectors, matrices, and user-defined functions.</p>
+  Students were taught programming in Microsoft Excel<sup>TM</sup> and MATLAB<sup>TM</sup> environments through a structured curriculum, which allowed them to work on engineering-based case studies and develop critical problem-solving abilities. In addition to real-world case studies, the topics covered included data management, algorithm development, Excel<sup>TM</sup> capabilities including data analysis and optimization, and MATLAB<sup>TM</sup> programming basics like vectors, matrices, and user-defined functions.</p>
 
 
 
