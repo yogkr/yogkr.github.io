@@ -34,10 +34,9 @@ in industrial research and development, leveraging my analytical prowess and sof
 #### Research Fellow at Indian Institute of Technology with [Prof. Manikandan Paranjothy](http://home.iitj.ac.in/~pmanikandan/){:target="_blank"}
 - Guided master's students in their research projects
 - Undertook a project on interstellar glycine formation
-- Established, set up, and maintained a computational lab (HPC, server)
-- Conducted a project on gas phase decomposition of protonated amino acids
+- Established and maintained a computational lab (HPC, server)
 - Collaborated with colleagues to check the feasibility of drug discovery
-
+- Conducted a project on gas phase decomposition of protonated amino acids
   
 For a comprehensive overview of my academic and industrial experiences, please refer to the following documents:
 
