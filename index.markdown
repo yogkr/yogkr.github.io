@@ -11,6 +11,11 @@ experience in teaching and collaborative research projects. As a team player, I 
 I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
 in industrial research and development, leveraging my analytical prowess and soft skills to drive innovation and problem-solving.</p>
 
+<h1><b>Heading 1</b></h1>
+<h2><b>Heading 2</b></h2>
+<h3><b>Heading 3</b></h3>
+<h4><b>Heading 4</b></h4>
+
 # Experience 
 
 ### Postdoctoral Research Associate at Technical University of Denmark (DTU) Energy with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}<br />
