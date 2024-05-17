@@ -43,7 +43,7 @@ in industrial research and development, leveraging my analytical prowess and sof
 
 - Served as a sales and service engineer for research equipment, including AFM, electron lithography, and MEMS fabrication equipment
 - Assembled solar cells and small windmills for rooftops in small-scale industries and houses for sustainable energy
-- Worked as a Computer Numerical Control (CNC) operator to produce spare parts for industries
+- Worked as a Computer Numerical Control (CNC) operator to produce industrial hardware
 
 ## Profile
 
