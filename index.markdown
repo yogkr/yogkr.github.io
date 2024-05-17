@@ -32,37 +32,29 @@ in industrial research and development, leveraging my analytical prowess and sof
 - I analyzed the I-V characteristics of thin films to assess their electrical properties
 
 #### Research Fellow at Indian Institute of Technology with [Prof. Manikandan Paranjothy](http://home.iitj.ac.in/~pmanikandan/){:target="_blank"}
-- Guided master's students in their research projects
-- Undertook a project on interstellar glycine formation
-- Collaborated with colleagues to check the feasibility of drug discovery
-- Involved in Establishing and maintaining a computational lab (HPC, server)
+
 - Conducted a project on gas phase decomposition of protonated amino acids
+- Involved in Establishing and maintaining a computational lab (HPC, server)
+- Collaborated with colleagues to check the feasibility of drug discovery
+- Undertook a project on interstellar glycine formation
+- Guided master's students in their research projects
 
 #### Industrial Experience 
-- Worked as a Computer Numerical Control (CNC) operator to produce spare parts for industries
-- Assembled solar cells and small windmills for rooftops in small-scale industries and houses for sustainable energy
-- Served as a sales and service engineer for research equipment, including AFM, electron lithography, and MEMS fabrication equipment
-  
-For a comprehensive overview of my academic and industrial experiences, please refer to the following documents:
 
-- [Curriculum vitae](assets/Yogesh_CV.pdf){:target="_blank"} delve into my academic journey, research endeavors, and scholarly achievements
-- 
-<!--
-[Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
--->
+- Served as a sales and service engineer for research equipment, including AFM, electron lithography, and MEMS fabrication equipment
+- Assembled solar cells and small windmills for rooftops in small-scale industries and houses for sustainable energy
+- Worked as a Computer Numerical Control (CNC) operator to produce spare parts for industries
+
 # Education
 
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
   - Ph.D., University College Dublin, Dublin. Ireland (May 2018 - May 2021)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (June 2012 - May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2009 - May 2012)
-    
----------------------------------
+
+<p style="text-align:justify;">For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](assets/Yogesh_CV.pdf){:target="_blank"} which delves into my academic journey, research endeavors, and scholarly achievements.</p>
+<!--
+[Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
+-->
+
 <br>
-
-<!-- 
-comment out the unnecessary things
- -->
-
-
-
