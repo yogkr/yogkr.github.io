@@ -38,21 +38,24 @@ in industrial research and development, leveraging my analytical prowess and sof
 - Involved in Establishing and maintaining a computational lab (HPC, server)
 - Conducted a project on gas phase decomposition of protonated amino acids
 
-
+#### Industrial Experience 
+- Worked as a Computer Numerical Control (CNC) operator to produce spare parts for industries
+- Assembled solar cells and small windmills for rooftops in small-scale industries and houses for sustainable energy
+- Served as a sales and service engineer for research equipment, including AFM, electron lithography, and MEMS fabrication equipment
   
 For a comprehensive overview of my academic and industrial experiences, please refer to the following documents:
 
-- [Acadamic CV](assets/Yogesh_CV.pdf){:target="_blank"} delve into my academic journey, research endeavors, and scholarly achievements
-- [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
-  
-These documents offer detailed insights into my qualifications, accomplishments, and areas of expertise.
-
+- [Curriculum vitae](assets/Yogesh_CV.pdf){:target="_blank"} delve into my academic journey, research endeavors, and scholarly achievements
+- 
+<!--
+[Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
+-->
 # Education
 
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
-  - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
-  - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
-  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
+  - Ph.D., University College Dublin, Dublin. Ireland (May 2018 - May 2021)
+  - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (June 2012 - May 2014)
+  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2009 - May 2012)
     
 ---------------------------------
 <br>
