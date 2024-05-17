@@ -66,6 +66,7 @@ header_pages:
   - teaching.markdown
   # - blogs.markdown
   # - hobbies.markdown
+  - gallery.markdown
   - contact.markdown 
 
 # social_links:
