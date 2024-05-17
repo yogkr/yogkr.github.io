@@ -27,11 +27,11 @@ in industrial research and development, leveraging my analytical prowess and sof
 - Explored hydrogen storage and release mechanisms to enhance energy efficiency
 - Mentored master's and PhD students in conducting innovative research projects
 
-### Research Fellow at Indian Institute of Technology with [Prof. Mahesh Kumar](https://research.iitj.ac.in/researcher/mahesh-kumar){:target="_blank"}
+### Research Fellow at Indian Institute of Technology Jodhpur with [Prof. Mahesh Kumar](https://research.iitj.ac.in/researcher/mahesh-kumar){:target="_blank"}
 - I utilized CVD and molecular-beam epitaxy techniques for the fabrication of gas-sensing devices
 - I analyzed the I-V characteristics of thin films to assess their electrical properties
 
-### Research Fellow at Indian Institute of Technology with [Prof. Manikandan Paranjothy](http://home.iitj.ac.in/~pmanikandan/){:target="_blank"}
+### Research Fellow at Indian Institute of Technology Jodhpur with [Prof. Manikandan Paranjothy](http://home.iitj.ac.in/~pmanikandan/){:target="_blank"}
 
 - Conducted a project on gas phase decomposition of protonated amino acids
 - Involved in Establishing and maintaining a computational lab (HPC, server)
@@ -47,10 +47,10 @@ in industrial research and development, leveraging my analytical prowess and sof
 
 ## Education
 
-  - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (Sep 2021 - May 2024)
-  - Ph.D., University College Dublin, Dublin. Ireland (May 2018 - May 2021)
-  - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (June 2012 - May 2014)
-  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2009 - May 2012)
+  - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (May 2024)
+  - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
+  - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
+  - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (May 2012)
 
 For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](assets/Yogesh_CV.pdf){:target="_blank"} which delves into my academic journey, research endeavors, and scholarly achievements.
 <!--
