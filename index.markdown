@@ -14,7 +14,7 @@ in industrial research and development, leveraging my analytical prowess and sof
 # Experience 
 
 #### Postdoctoral Research Associate at Technical University of Denmark (DTU) Energy with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}<br />
-- Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator) package that minimize the human effort to develop robust machine learning potential for interface materials<br />
+- Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator){:target="_blank"} package that minimize the human effort to develop robust machine learning potential for interface materials<br />
 - Exploring the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials<br />
 - Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory(DFT)<br />
 - Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials<br />
@@ -52,7 +52,7 @@ in industrial research and development, leveraging my analytical prowess and sof
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (June 2012 - May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2009 - May 2012)
 
-<p style="text-align:justify;">For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](assets/Yogesh_CV.pdf){:target="_blank"} which delves into my academic journey, research endeavors, and scholarly achievements.</p>
+For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](assets/Yogesh_CV.pdf){:target="_blank"} which delves into my academic journey, research endeavors, and scholarly achievements.
 <!--
 [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
 -->
