@@ -8,27 +8,21 @@ permalink: /gallery/
 ### Painting
 
 <div class="gallery">
-  <img src="path/to/painting1.jpg" alt="Painting 1">
-  <img src="path/to/painting2.jpg" alt="Painting 2">
-  <img src="path/to/painting3.jpg" alt="Painting 3">
+  <img src="assets/fig/cpp.JPG" alt="Painting 1">
   <!-- Add more images as needed -->
 </div>
 
 ### Music
 
 <div class="gallery">
-  <img src="path/to/music1.jpg" alt="Music 1">
-  <img src="path/to/music2.jpg" alt="Music 2">
-  <img src="path/to/music3.jpg" alt="Music 3">
+  <img src="assets/fig/cyclo.png" alt="Music 1">
   <!-- Add more images as needed -->
 </div>
 
 ### Books
 
 <div class="gallery">
-  <img src="path/to/book1.jpg" alt="Book 1">
-  <img src="path/to/book2.jpg" alt="Book 2">
-  <img src="path/to/book3.jpg" alt="Book 3">
+  <img src="assets/fig/edx.png" alt="Book 1">
   <!-- Add more images as needed -->
 </div>
 
