@@ -45,7 +45,7 @@ in industrial research and development, leveraging my analytical prowess and sof
 - Assembled solar cells and small windmills for rooftops in small-scale industries and houses for sustainable energy
 - Worked as a Computer Numerical Control (CNC) operator to produce spare parts for industries
 
-## Education
+## Profile
 
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (May 2024)
   - Ph.D., University College Dublin, Dublin. Ireland (May 2021)
