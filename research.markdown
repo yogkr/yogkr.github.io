@@ -36,4 +36,9 @@ image_sliders:
   </div>
 </div>
 
+<figure>
+  <img src="/assets/fig/cpp.JPG" alt="nvidia-smi" style="width:10%">
+  <figcaption>Me</figcaption>
+</figure>
+
 <br>
