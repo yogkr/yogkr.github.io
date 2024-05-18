@@ -32,7 +32,7 @@ image_sliders:
     <p>Descriptions will be here</p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="assets/fig/cp" alt="image name" width="360px" style="max-width: 100%; height: auto;">
+    <img src="assets/fig/dp.png" alt="image name" width="360px" style="max-width: 100%; height: auto;">
   </div>
 </div>
 
