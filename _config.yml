@@ -58,8 +58,6 @@ minima:
      - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=yg0mdFgAAAAJ&hl=en"}
      - { platform: orcid,        user_url: "https://orcid.org/0000-0002-6994-8671" }
 
-
-
 header_pages:
   - index.markdown
   - research.markdown
@@ -72,8 +70,6 @@ header_pages:
 # social_links:
 #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
 #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
