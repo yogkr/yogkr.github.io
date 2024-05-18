@@ -57,5 +57,4 @@ For a comprehensive overview of my academic and industrial experiences, please r
 <!--
 [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
 -->
-
 <br>
