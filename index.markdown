@@ -13,7 +13,7 @@ in industrial research and development, leveraging my analytical and soft skills
 
 ## Experience 
 
-### Postdoctoral Research Associate at Technical University of Denmark (DTU) Energy with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
+### Postdoctoral Research Associate at Technical University of Denmark (DTU) with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
 - Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator){:target="_blank"} package that minimize the human effort to develop robust machine learning potential for interface materials
 - Explored the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
 - Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory(DFT)
@@ -48,7 +48,7 @@ in industrial research and development, leveraging my analytical and soft skills
 ## Profile
 
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (May 2024)
-  - Ph.D., University College Dublin, Dublin. Ireland (March 2021)
+  - Ph.D., University College Dublin, Dublin, Ireland (March 2021)
   - Research Fellow, Indian Institute of Technology Jodhpur, Rajasthan, India (April 2018)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2012)
