@@ -27,4 +27,13 @@ image_sliders:
 
 #### Selected Publications
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
+    <p>Descriptions will be here</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="assets/fig/cp" alt="image name" width="360px" style="max-width: 100%; height: auto;">
+  </div>
+</div>
+
 <br>
