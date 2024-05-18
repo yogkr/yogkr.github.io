@@ -66,8 +66,8 @@ header_pages:
   - teaching.markdown
   # - blogs.markdown
   # - hobbies.markdown
- # - gallery.markdown
-#  - contact.markdown 
+  - gallery.markdown
+  - contact.markdown 
 
 # social_links:
 #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
