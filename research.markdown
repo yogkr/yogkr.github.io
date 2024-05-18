@@ -33,7 +33,7 @@ image_sliders:
     <p>Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4 surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="360px" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="360px" style="max-width: 30%; height: auto;">
   </div>
 </div>
 
