@@ -59,5 +59,15 @@ image_sliders:
   </div>
 </div>
 
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
+  <div style="flex: 0.8; text-align: left;">
+    <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 3.2; margin-left: 10px;">
+    <p>Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work..</p>
+    <p>For more details, check out our <a href="https://doi.org/10.26434/chemrxiv-2024-29p7m" target="_blank">thesis work</a>.</p>
+  </div>
+</div>
+
 
 <br>
