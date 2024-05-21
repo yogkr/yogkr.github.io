@@ -29,29 +29,20 @@ image_sliders:
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
-  <div style="flex: 3.2; margin-right: 10px;">
+  <div style="flex: 3.25; margin-right: 10px;">
     <p>Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4 surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
   </div>
-  <div style="flex: 0.8; text-align: right;">
-    <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
-  <div style="flex: 3; margin-right: 10px;">
-    <p>Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4 surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
+  <div style="flex: 0.75; text-align: center;">
     <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
     <p>IMAGE NAME</p>
   </div>
 </div>
-
+- Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
-  <div style="flex: 0.8; text-align: left;">
+  <div style="flex: 0.75; text-align: left;">
     <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 3.2; margin-left: 10px;">
+  <div style="flex: 3.25; margin-left: 10px;">
     <p>Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4 surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
   </div>
 </div>
