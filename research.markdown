@@ -39,7 +39,7 @@ image_sliders:
 
 
 ## Selected Publications
-- <a href="https://doi.org/10.26434/chemrxiv-2024-p5t3l" target="_blank">CURATOR: Building Robust Machine Learning Potentials for Atomistic Simulations Autonomously with Batch Active Learning. </a>.</p>
+<a href="https://doi.org/10.26434/chemrxiv-2024-p5t3l" target="_blank">CURATOR: Building Robust Machine Learning Potentials for Atomistic Simulations Autonomously with Batch Active Learning. </a>
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 3.25; margin-right: 10px;">
@@ -53,7 +53,7 @@ image_sliders:
 </div>
 
 
-- <a href="https://doi.org/10.1039/D1CY00302J" target="_blank">Oxygen-evolution reactions (OER) on transition-metal-doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> iron-phosphate surfaces: a first-principles study.</a>.</p>
+<a href="https://doi.org/10.1039/D1CY00302J" target="_blank">Oxygen-evolution reactions (OER) on transition-metal-doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> iron-phosphate surfaces: a first-principles study.</a>
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 0.8; text-align: left;">
