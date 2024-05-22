@@ -39,7 +39,7 @@ image_sliders:
 
 
 ## Selected Publications
-- <a href=https://doi.org/10.26434/chemrxiv-2024-p5t3l" target="_blank">CURATOR: Building Robust Machine Learning Potentials for Atomistic Simulations Autonomously with Batch Active Learning. </a>.</p>
+- <a href="https://doi.org/10.26434/chemrxiv-2024-p5t3l" target="_blank">CURATOR: Building Robust Machine Learning Potentials for Atomistic Simulations Autonomously with Batch Active Learning. </a>.</p>
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 3.25; margin-right: 10px;">
