@@ -22,19 +22,22 @@ image_sliders:
 ### University College Dublin ([UCD](https://www.ucd.ie/){:target="_blank"})
 #### Molecular simulation of energy-transfer processes at interfaces
 
-#### Description: 
 <p style="text-align:justify;">Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
 
 ### Indian Institute of Technology Jodhpur ([IITJ](https://www.iitj.ac.in/){:target="_blank"})
 ####  Fabrication and Analysis of Gas-Sensing Devices
-#### Description: 
+
 <p style="text-align:justify;">We utilized Chemical Vapour Deposition (CVD) and molecular-beam epitaxy (MBE) techniques for the fabrication of gas-sensing devices. We analyzed and tested the thin film gas-sensing unit.</p>
 
 
 ####  Theoretical reaction dynamics and rate theories, Direct dynamics simulations
-#### Description: 
+
 <p style="text-align:justify;">We studied the decomposition pathways of protonated tryptophan using chemical dynamics simulations and density functional theory. We collaborated to calculate the minimum energy geometry of inclusion complexes and compared the results with NMR experiments. We explored how simple organic molecules may have formed in space and traveled to Earth on meteorites, potentially leading to the origin of life.</p>
 
+### PSG College of Technology, India ([PSG](https://www.psgtech.edu/){:target="_blank"})
+####  Thin film thermoelectric materials
+
+<p style="text-align:justify;">Bismuth telluride thin films were fabricated by electron beam evaporation using a HINDHI-VAC vacuum unit. X-ray diffraction (XRD) patterns and XPS analyses were performed on both as-deposited and post-annealed bismuth telluride films. We tested the Bi2Te3 thin films to determine their suitability for thermoelectric applications.</p>
 
 ## Selected Publications
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
