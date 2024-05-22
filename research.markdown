@@ -25,6 +25,13 @@ image_sliders:
 #### Description: 
 <p style="text-align:justify;">Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
 
+### Indian Institute of Technology Jodhpur ([IITJ](https://www.ucd.ie/){:target="_blank"})
+#### Molecular simulation of energy-transfer processes at interfaces
+
+#### Description: 
+<p style="text-align:justify;">Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
+
+
 #### Selected Publications
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
