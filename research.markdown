@@ -37,7 +37,7 @@ image_sliders:
 ### PSG College of Technology, India ([PSG](https://www.psgtech.edu/){:target="_blank"})
 ####  Thin film thermoelectric materials
 
-<p style="text-align:justify;">Bismuth telluride thin films were fabricated by electron beam evaporation using a HINDHI-VAC vacuum unit. X-ray diffraction (XRD) patterns and XPS analyses were performed on both as-deposited and post-annealed bismuth telluride films. We tested the Bi2Te3 thin films to determine their suitability for thermoelectric applications.</p>
+<p style="text-align:justify;">Bismuth telluride thin films were fabricated by electron beam evaporation unit. X-ray diffraction (XRD) patterns and XPS analyses were performed on both as-deposited and post-annealed bismuth telluride films. We tested the Bi2Te3 thin films to determine their suitability for thermoelectric applications.</p>
 
 ## Selected Publications
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
