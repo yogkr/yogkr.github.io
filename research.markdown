@@ -66,7 +66,7 @@ image_sliders:
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="/assets/fig/33.png" alt="Clathrate Hydrate" width="150%" style="max-width: 100%; height: auto;">
- <p><i>Active Learning</i></p>
+ <p><i>Clathrate Hydrate</i></p>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ image_sliders:
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 1; text-align: left;">
     <img src="/assets/fig/44.png" alt="OER/ORR on Pt surface" width="150%" style="max-width: 100%; height: auto;">
-  <p><i>Iron-phosphate Surface</i></p>
+  <p><i>OER/ORR on Pt surface</i></p>
   </div>
   <div style="flex: 3; margin-left: 10px;">
   <p style="text-align:justify;"> Understanding the kinetics of the oxygen reduction reaction (ORR) is crucial in catalyst development for hydrogen fuel cells. However, traditional half-cell rotating disk electrode (RDE) protocols have limitations, as ORR activities are influenced by scan rate and surface oxygen presence. This study introduces a novel deconvolution approach to separate intrinsic ORR kinetics from surface oxygen effects on platinum catalysts, enabling precise evaluation regardless of scan rate or direction. Notably, by employing density functional theory (DFT) calculations, the study illuminates the role of surface oxygen in modulating ORR kinetics, offering valuable insights for catalyst design and fuel cell enhancement.</p>
