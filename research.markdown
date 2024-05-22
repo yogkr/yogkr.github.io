@@ -41,7 +41,7 @@ image_sliders:
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 3.25; margin-right: 10px;">
-  <p> CURATOR represents a significant advancement in the field of computational materials science by enabling the efficient and rapid development of high-accuracy Machine-Learned Interatomic Potentials (MLIPs). Its integration of state-of-the-art models, uncertainty quantification, and novel gradient computation methods significantly reduces the resources and time required for MLIP development. The promising results in complex material applications highlight CURATOR's potential in accelerating materials discovery. Consequently, CURATOR's flexibility and efficiency pave the way for more extensive and longer time-scale atomistic simulations.</p>  
+  <p style="text-align:justify;"> CURATOR represents a significant advancement in the field of computational materials science by enabling the efficient and rapid development of high-accuracy Machine-Learned Interatomic Potentials (MLIPs). Its integration of state-of-the-art models, uncertainty quantification, and novel gradient computation methods significantly reduces the resources and time required for MLIP development. The promising results in complex material applications highlight CURATOR's potential in accelerating materials discovery. Consequently, CURATOR's flexibility and efficiency pave the way for more extensive and longer time-scale atomistic simulations.</p>  
 
   </div>
   <div style="flex: 0.75; text-align: center;">
@@ -57,8 +57,7 @@ image_sliders:
     <img src="/assets/fig/11.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3.2; margin-left: 10px;">
-    <p>
-We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(PO<sub>4</sub>)<sub>4</sub>(010) and Fe<sub>3</sub>Co<sub>1−x</sub>M<sub>x</sub>(PO<sub>4</sub>)<sub>4</sub>(010) electro-catalyst surfaces (with M = Mn, Os, Ru, Rh, and Ir) using density-functional theory (DFT) to evaluate their potential for oxygen-evolution reactions (OER) in water-splitting processes. The DFT calculations systematically analyzed their electronic and nuclear structures and thermodynamic energetics to assess OER viability, including charge-density effects of the dopants. All OER reaction steps were explored on possible surface sites, with energy profiles and free-energy changes computed and discussed. Notably, iron replaced by osmium showed the most promising catalytic effect at Co surface sites.</p>
+  <p style="text-align:justify;"> We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(PO<sub>4</sub>)<sub>4</sub>(010) and Fe<sub>3</sub>Co<sub>1−x</sub>M<sub>x</sub>(PO<sub>4</sub>)<sub>4</sub>(010) electro-catalyst surfaces (with M = Mn, Os, Ru, Rh, and Ir) using density-functional theory (DFT) to evaluate their potential for oxygen-evolution reactions (OER) in water-splitting processes. The DFT calculations systematically analyzed their electronic and nuclear structures and thermodynamic energetics to assess OER viability, including charge-density effects of the dopants. All OER reaction steps were explored on possible surface sites, with energy profiles and free-energy changes computed and discussed. Notably, iron replaced by osmium showed the most promising catalytic effect at Co surface sites.</p>
     <p>For more details, check out our <a href="https://doi.org/10.26434/chemrxiv-2024-29p7m" target="_blank">thesis work</a>.</p>
   </div>
 </div>
