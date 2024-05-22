@@ -37,8 +37,9 @@ image_sliders:
 
 <p style="text-align:justify;">Bismuth telluride thin films were fabricated by electron beam evaporation unit. X-ray diffraction (XRD) patterns and XPS analyses were performed on both as-deposited and post-annealed bismuth telluride films. We tested the Bi2Te3 thin films to determine their suitability for thermoelectric applications.</p>
 
+
 ## Selected Publications
-- <a href="https://doi.org/10.26434/chemrxiv-2024-29p7m" target="_blank">Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis</a>.</p>
+- <a href=https://doi.org/10.26434/chemrxiv-2024-p5t3l" target="_blank">CURATOR: Building Robust Machine Learning Potentials for Atomistic Simulations Autonomously with Batch Active Learning. </a>.</p>
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 3.25; margin-right: 10px;">
@@ -46,16 +47,17 @@ image_sliders:
 
   </div>
   <div style="flex: 0.75; text-align: center;">
-    <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/22.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
     <p>IMAGE NAME</p>
   </div>
 </div>
 
-- Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
+
+- <a href="https://doi.org/10.1039/D1CY00302J" target="_blank">Oxygen-evolution reactions (OER) on transition-metal-doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> iron-phosphate surfaces: a first-principles study.</a>.</p>
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 0.8; text-align: left;">
-    <img src="/assets/fig/dp.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/11.png" alt="IMAGE NAME" width="100%" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 3.2; margin-left: 10px;">
     <p>
@@ -63,6 +65,8 @@ We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(
     <p>For more details, check out our <a href="https://doi.org/10.26434/chemrxiv-2024-29p7m" target="_blank">thesis work</a>.</p>
   </div>
 </div>
+
+
 
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
@@ -76,6 +80,8 @@ We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(
     <p>IMAGE NAME</p>
   </div>
 </div>
+
+
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
@@ -88,6 +94,8 @@ We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(
   </div>
 </div>
 
+
+
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
@@ -100,6 +108,8 @@ We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(
     <p>IMAGE NAME</p>
   </div>
 </div>
+
+
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
