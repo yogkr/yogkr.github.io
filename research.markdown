@@ -43,7 +43,7 @@ image_sliders:
   <p style="text-align:justify;"> CURATOR represents a significant advancement in the field of computational materials science by enabling the efficient and rapid development of high-accuracy Machine-Learned Interatomic Potentials (MLIPs). Its integration of state-of-the-art models, uncertainty quantification, and novel gradient computation methods significantly reduces the resources and time required for MLIP development. The promising results in complex material applications highlight CURATOR's potential in accelerating materials discovery. Consequently, CURATOR's flexibility and efficiency pave the way for more extensive and longer time-scale atomistic simulations.</p>  
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/fig/2.png" alt="Active Learning" width="150%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/2.png" alt="Active Learning" width="10%" style="max-width: 100%; height: auto;">
  <p><i>Active Learning</i></p>
   </div>
 </div>
@@ -51,7 +51,7 @@ image_sliders:
 <a href="https://doi.org/10.1039/D1CY00302J" target="_blank">Oxygen-evolution reactions (OER) on transition-metal-doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> iron-phosphate surfaces: a first-principles study </a>
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 1; text-align: left;">
-    <img src="/assets/fig/1.png" alt="Iron-phosphate Surface" width="150%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/1.png" alt="Iron-phosphate Surface" width="10%" style="max-width: 100%; height: auto;">
   <p><i>Iron-phosphate Surface</i></p>
   </div>
   <div style="flex: 3; margin-left: 10px;">
@@ -65,7 +65,7 @@ image_sliders:
   <p style="text-align:justify;"> We evaluated the thermodynamic and kinetic properties of neon uptake and release in a sII clathrate hydrate using molecular dynamics simulation, both with and without an applied static electric field. Neon "leakage" from the clathrate into a vacuum was simulated at temperatures from 200 to 225 K for 0.5 μs, observing progressive emptying of cages. Activation energies for release and uptake were found to be 16.4 and 14.9 kJ/mol, respectively, aligning with experimental values. Additionally, in the presence of a 0.7 V/nm electric field, the release activation energy decreased to 6.5 kJ/mol, indicating potential for controlled gas release from pre-loaded clathrates.</p>  
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/fig/3.png" alt="Clathrate Hydrate" width="150%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/3.png" alt="Clathrate Hydrate" width="10%" style="max-width: 100%; height: auto;">
  <p><i>Clathrate Hydrate</i></p>
   </div>
 </div>
@@ -73,7 +73,7 @@ image_sliders:
 <a href="https://doi.org/10.21203/rs.3.rs-2709219/v1" target="_blank">Unifying the Oxygen Reduction and Evolution Reaction with Surface Oxygen and Extracting their Intrinsic Activities on Platinum Catalysts </a>
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 1; text-align: left;">
-    <img src="/assets/fig/4.png" alt="OER/ORR on Pt surface" width="150%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/4.png" alt="OER/ORR on Pt surface" width="10%" style="max-width: 100%; height: auto;">
   <p><i>OER/ORR on Pt surface</i></p>
   </div>
   <div style="flex: 3; margin-left: 10px;">
