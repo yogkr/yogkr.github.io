@@ -30,7 +30,7 @@ image_sliders:
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 3.25; margin-right: 10px;">
-    <p>Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe3Co(PO4)4 surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>  
+    <p>CURATOR represents a significant advancement in the field of computational materials science by enabling the efficient and rapid development of high-accuracy Machine-Learned Interatomic Potentials (MLIPs). Its integration of state-of-the-art models, uncertainty quantification, and novel gradient computation methods significantly reduces the resources and time required for MLIP development. The promising results in complex material applications highlight CURATOR's potential in accelerating materials discovery. Consequently, CURATOR's flexibility and efficiency pave the way for more extensive and longer time-scale atomistic simulations.</p>  
     <p>For more details, check out our <a href="https://doi.org/10.26434/chemrxiv-2024-29p7m" target="_blank">thesis work</a>.</p>
   </div>
   <div style="flex: 0.75; text-align: center;">
