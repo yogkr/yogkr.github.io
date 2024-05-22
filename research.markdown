@@ -14,8 +14,6 @@ image_sliders:
 ### Technical University of Denmark ([DTU](https://www.dtu.dk/english/){:target="_blank"})
 #### Nonequilibrium Dynamics with AI/ML potentials at the Solid-Liquid Interface
 
-#### Description: 
-
 <p style="text-align:justify;">We looked into the O<sub>2</sub> reduction by protons and alkali metal ions in a nonaqueous electrolyte, like acetonitrile, to comprehend the impact of the solvent. Regarding potential future lithium- and sodium-air batteries, which have exceptionally large theoretical capacities, the ORR is very interesting. The ORR selectivity in alkali metal-air batteries for superoxides, peroxides, or dioxides is influenced by the cathode material, the electrolyte solvent, and the trace water content.  The capacity and rechargeability of batteries are subsequently impacted by these discharge products. Specifically, superoxide dissolution is necessary to boost battery capacity, and it has been demonstrated that trace water contaminants aid in this dissolution.</p>
 
 
