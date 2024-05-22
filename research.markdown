@@ -44,17 +44,17 @@ image_sliders:
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="/assets/fig/22.png" alt="Active Learning" width="150%" style="max-width: 100%; height: auto;">
-    <p>Active Learning</p>
+ <p><i>Active Learning</i></p>
   </div>
 </div>
 
 <a href="https://doi.org/10.1039/D1CY00302J" target="_blank">Oxygen-evolution reactions (OER) on transition-metal-doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> iron-phosphate surfaces: a first-principles study. </a>
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
-  <div style="flex: 0.8; text-align: left;">
+  <div style="flex: 1; text-align: left;">
     <img src="/assets/fig/11.png" alt="Iron-phosphate Surface" width="150%" style="max-width: 100%; height: auto;">
-    <p>Iron-phosphate Surface</p>
+  <p><i>Iron-phosphate Surface</i></p>
   </div>
-  <div style="flex: 3.2; margin-left: 10px;">
+  <div style="flex: 3; margin-left: 10px;">
   <p style="text-align:justify;"> We modeled a series of transition-metal-doped Fe<sub>1−x</sub>M<sub>x</sub>Co(PO<sub>4</sub>)<sub>4</sub>(010) and Fe<sub>3</sub>Co<sub>1−x</sub>M<sub>x</sub>(PO<sub>4</sub>)<sub>4</sub>(010) electro-catalyst surfaces (with M = Mn, Os, Ru, Rh, and Ir) using density-functional theory (DFT) to evaluate their potential for oxygen-evolution reactions (OER) in water-splitting processes. The DFT calculations systematically analyzed their electronic and nuclear structures and thermodynamic energetics to assess OER viability, including charge-density effects of the dopants. All OER reaction steps were explored on possible surface sites, with energy profiles and free-energy changes computed and discussed. Notably, iron replaced by osmium showed the most promising catalytic effect at Co surface sites.</p>
   </div>
 </div>
