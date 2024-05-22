@@ -7,7 +7,7 @@ image_sliders:
   - slider2
 ---
 
-### Research
+## Research
 
 {% include slider.html selector="slider2" %}
 
@@ -25,14 +25,14 @@ image_sliders:
 #### Description: 
 <p style="text-align:justify;">Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
 
-### Indian Institute of Technology Jodhpur ([IITJ](https://www.ucd.ie/){:target="_blank"})
+### Indian Institute of Technology Jodhpur ([IITJ](https://www.iitj.ac.in/){:target="_blank"})
 #### Molecular simulation of energy-transfer processes at interfaces
 
 #### Description: 
-<p style="text-align:justify;">Explored the intricate interfaces of clathrate hydrate and doped iron phosphate materials in our thesis work. Delve into the investigation of clathrate hydrates containing neon, hydrogen, and deuterium gases, with a keen focus on sII type hydrate structures. Discovered how first-principles calculations were employed to compute the oxygen-evolution reaction pathway of water on a doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> surface, shedding light on the impact of dopant materials and their potential energy surfaces.</p>
+<p style="text-align:justify;">We studied the decomposition pathways of protonated tryptophan using chemical dynamics simulations and density functional theory. We collaborated to calculate the minimum energy geometry of inclusion complexes and compared the results with NMR experiments. We explored how simple organic molecules may have formed in space and traveled to Earth on meteorites, potentially leading to the origin of life.</p>
 
 
-#### Selected Publications
+## Selected Publications
 - Tetrazole functionalization: A new strategy toward stable ion-solvating polymer electrolytes for alkaline water electrolysis
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
