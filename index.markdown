@@ -54,4 +54,3 @@ title: Home
 <!--
 [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
 -->
-<br>
