@@ -5,11 +5,8 @@ title: Home
 
 <p><img src="assets/fig/cpp.JPG" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
 
-<p style="text-align:justify;">As a skilled Postdoctoral Researcher, I specialize in computational materials science, machine learning, 
- and molecular dynamics. My track record demonstrates research in energy materials, catalysis, and chemical dynamics, alongside
-experience in collaborative research projects. As a team player, I seamlessly collaborate; as an individual worker,
-I exhibit remarkable autonomy and effectiveness, epitomizing versatile productivity. I am currently seeking challenging opportunities 
-in industrial research and development, leveraging my analytical and soft skills to drive innovation and problem-solving.</p>
+<p style="text-align:justify;">My background is in materials science and physics, and I work as a researcher. I've largely dealt with molecular dynamics and density functional theory (DFT).  I have experience with machine learning interatomic potentials for energy materials as well. Particularly my interests include catalysis, MEMS, chemical dynamics, and gas storage. Besides my materials scientist background, I have industry work experience.
+</p>
 
 ## Experience 
 
@@ -24,15 +21,14 @@ in industrial research and development, leveraging my analytical and soft skills
 - Investigated Hydrogen production through water splitting for sustainable energy solutions
 - Collaborated with colleagues to explore interdisciplinary approaches in energy research
 - Conducted research on dye-sensitized solar cells to optimize photovoltaic performance
-- Explored hydrogen storage and release mechanisms to enhance energy efficiency
-- Mentored master's and PhD students in conducting innovative research projects
+- Explored hydrogen storage and release mechanisms to enhance gas storage
+- Mentored master's and PhD students in conducting research projects
 
 ### Research Fellow at Indian Institute of Technology Jodhpur with [Prof. Mahesh Kumar](https://research.iitj.ac.in/researcher/mahesh-kumar){:target="_blank"}
-- I utilized CVD and molecular-beam epitaxy techniques for the fabrication of gas-sensing devices
-- I analyzed the I-V characteristics of thin films to assess their electrical properties
+- Utilized CVD and molecular-beam epitaxy techniques for the fabrication of gas-sensing devices
+- Analyzed the I-V characteristics of thin films to assess their electrical properties
 
 ### Research Fellow at Indian Institute of Technology Jodhpur with [Prof. Manikandan Paranjothy](http://home.iitj.ac.in/~pmanikandan/){:target="_blank"}
-
 - Conducted a project on gas phase decomposition of protonated amino acids
 - Involved in Establishing and maintaining a computational lab (HPC, server)
 - Collaborated with colleagues to check the feasibility of drug discovery
@@ -40,20 +36,23 @@ in industrial research and development, leveraging my analytical and soft skills
 - Guided master's students in their research projects
 
 ### Industrial Experience 
-
 - Served as a sales and service engineer for research equipment, including AFM, electron lithography, and MEMS fabrication equipment
 - Assembled solar cells and small windmills for rooftops in small-scale industries and houses for sustainable energy
 - Worked as a Computer Numerical Control (CNC) operator to produce industrial hardware
 
 ## Profile
-
   - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (May 2024)
   - Ph.D., University College Dublin, Dublin, Ireland (March 2021)
   - Research Fellow, Indian Institute of Technology Jodhpur, Rajasthan, India (April 2018)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2012)
 
-For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](assets/Yogesh_CV.pdf){:target="_blank"} which delves into my academic journey, research endeavors, and scholarly achievements.
+<p style="text-align:justify;">For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](/assets/Yogesh_CV.pdf){:target="_blank"}.</p>
+
+<p style="text-align:justify;">
+    For a comprehensive overview of my academic and industrial experiences, please refer to my 
+    <a href="/assets/Yogesh_CV.pdf" target="_blank">Curriculum Vitae</a>.
+</p>
 <!--
 [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
 -->
