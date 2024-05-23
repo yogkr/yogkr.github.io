@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<p><img src="assets/fig/cpp.JPG" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
+<p><img src="assets/fig/dp1.png" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
 
 <p style="text-align:justify;">My background is in materials science and physics, and I work as a researcher. I've largely dealt with molecular dynamics and density functional theory (DFT).  I have experience with machine learning interatomic potentials for energy materials as well. Particularly my interests include catalysis, MEMS, chemical dynamics, and gas storage. Besides my materials scientist background, I have industry work experience.
 </p>
