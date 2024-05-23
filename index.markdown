@@ -41,13 +41,11 @@ title: Home
 - Worked as a Computer Numerical Control (CNC) operator to produce industrial hardware
 
 ## Profile
-  - Post Doctoral Research, Technical University of Denmark, Lyngby, Denmark (May 2024)
+  - Post Doctoral Researcher, Technical University of Denmark, Lyngby, Denmark (May 2024)
   - Ph.D., University College Dublin, Dublin, Ireland (March 2021)
   - Research Fellow, Indian Institute of Technology Jodhpur, Rajasthan, India (April 2018)
   - M.Sc. (Materials Science), PSG College of Technology, Coimbatore, Tamilnadu, India (May 2014)
   - B.Sc. (Physics), Sacred Heart College, Tirupattur, Tamilnadu, India (June 2012)
-
-<p style="text-align:justify;">For a comprehensive overview of my academic and industrial experiences, please refer to my [Curriculum Vitae](/assets/Yogesh_CV.pdf){:target="_blank"}.</p>
 
 <p style="text-align:justify;">
     For a comprehensive overview of my academic and industrial experiences, please refer to my 
