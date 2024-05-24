@@ -1,3 +1,5 @@
+// Existing SCSS code...
+
 /**
  * Site header
  */
@@ -100,7 +102,7 @@
   }
 }
 
-
+// Existing SCSS code continued...
 
 /**
  * Site footer
@@ -170,7 +172,7 @@
   }
 }
 
-
+// Existing SCSS code continued...
 
 /**
  * Page content
@@ -207,52 +209,20 @@
   @include relative-font-size(1.5);
 }
 
+// Provided CSS code appended here...
 
-
-
-
-/**
- * Posts
- */
-.post-header {
-  margin-bottom: $spacing-unit;
+// Social links
+.social-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; // Align icons horizontally
 }
 
-.post-title {
-  @include relative-font-size(2.0);
-  letter-spacing: -1px;
-  line-height: 1;
-
-  @include media-query($on-laptop) {
-    @include relative-font-size(2.0);
-  }
+.social-links .social-icon {
+  margin-right: 10px; // Adjust the spacing between icons
 }
 
-.post-content {
-  margin-bottom: $spacing-unit;
-
-  h2 {
-    @include relative-font-size(2);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.75);
-    }
-  }
-
-  h3 {
-    @include relative-font-size(1.625);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.375);
-    }
-  }
-
-  h4 {
-    @include relative-font-size(1.25);
-
-    @include media-query($on-laptop) {
-      @include relative-font-size(1.125);
-    }
-  }
+.social-links .social-icon img {
+  width: 30px; // Set the width of the icons
+  height: auto; // Maintain aspect ratio
 }
-
