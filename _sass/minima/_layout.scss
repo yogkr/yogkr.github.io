@@ -1,3 +1,14 @@
+// Define Media Queries
+$on-mobile: "(max-width: 599px)"; // Mobile devices
+$on-palm: "(max-width: 767px)"; // Palm devices (presumably including small tablets)
+$on-tablet: "(min-width: 600px) and (max-width: 1023px)"; // Tablet devices
+$on-laptop: "(min-width: 1024px)"; // Laptop and larger devices
+
+@mixin media-query($query) {
+  @media #{$query} {
+    @content;
+  }
+}
 // Existing SCSS code...
 
 /**
