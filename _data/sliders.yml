@@ -3,40 +3,40 @@
   captions: true
   images:
 
-    - src: /assets/fig/fe3co4.png
+    - src: /assets/fig/research/fe3co4.webp
       title: 
       alt: UCD Ireland
-    - src: /assets/fig/ml.png
+    - src: /assets/fig/research/ml.webp
       title: 
       alt: DTU Denmark 
-    - src: /assets/fig/tryptopan.png
+    - src: /assets/fig/research/tryptopan.webp
       title: 
       alt: IIT Jodhpur
-    - src: /assets/fig/oer.png
+    - src: /assets/fig/research/oer.webp
       title: 
       alt: DTU Denmark
-    - src: /assets/fig/rtil.png
+    - src: /assets/fig/research/rtil.webp
       title:
       alt: UCD Ireland
-    - src: /assets/fig/polymer.png
+    - src: /assets/fig/research/polymer.webp
       title: 
       alt: DTU Denmark
-    - src: /assets/fig/neon.png
+    - src: /assets/fig/research/neon.webp
       title: 
       alt: UCD Ireland
-    - src: /assets/fig/doping.png
+    - src: /assets/fig/research/doping.webp
       title: 
       alt: DTU Denmark/KNU Korea
-    - src: /assets/fig/gas.png
+    - src: /assets/fig/research/gas.webp
       title: 
       alt: UCD Ireland 
-    - src: /assets/fig/cyclo.png
+    - src: /assets/fig/research/cyclo.webp
       title:
       alt: IIT Jodhpur
-    - src: /assets/fig/glycine.png
+    - src: /assets/fig/research/glycine.webp
       title: 
       alt: IIT Jodhpur
-    - src: /assets/fig/edx.png
+    - src: /assets/fig/research/edx.webp
       title: 
       alt: PSG Tech, India
  
