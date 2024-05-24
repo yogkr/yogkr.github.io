@@ -55,8 +55,8 @@ minima:
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=yg0mdFgAAAAJ&hl=en"}
-  #   - { platform: orcid,        user_url: "https://orcid.org/0000-0002-6994-8671" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=yg0mdFgAAAAJ&hl=en"}
+    - { platform: orcid,        user_url: "https://orcid.org/0000-0002-6994-8671" }
 
 header_pages:
   - index.markdown
