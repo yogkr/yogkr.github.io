@@ -214,8 +214,9 @@
 // Social links
 .social-links {
   display: flex;
-  flex-direction: row;
-  justify-content: center; // Align icons horizontally
+  flex-direction: row; // Display icons horizontally
+  justify-content: center; // Center icons horizontally
+  align-items: center; // Center icons vertically
 }
 
 .social-links .social-icon {
