@@ -37,7 +37,7 @@ image_sliders:
   <p style="text-align:justify;"> CURATOR represents a significant advancement in the field of computational materials science by enabling the efficient and rapid development of high-accuracy Machine-Learned Interatomic Potentials (MLIPs). Its integration of state-of-the-art models, uncertainty quantification, and novel gradient computation methods significantly reduces the resources and time required for MLIP development. The promising results in complex material applications highlight CURATOR's potential in accelerating materials discovery. More extensive and longer time-scale atomistic simulations are thereby made possible by the flexibility and efficiency of CURATOR.</p>  
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/fig/research/2.webp" alt="Active Learning" width="65%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/research/2.webp" alt="Yogeshwaran Krishnan" width="65%" style="max-width: 100%; height: auto;">
  <p><i>Active Learning</i></p>
   </div>
 </div>
@@ -45,7 +45,7 @@ image_sliders:
 <a href="https://doi.org/10.1039/D1CY00302J" target="_blank">2. Oxygen-evolution reactions (OER) on transition-metal-doped Fe<sub>3</sub>Co(PO<sub>4</sub>)<sub>4</sub> iron-phosphate surfaces: a first-principles study </a>
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 1; text-align: left;">
-    <img src="/assets/fig/research/1.webp" alt="Iron-phosphate Surface" width="150%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/research/1.webp" alt="Yogeshwaran Krishnan" width="150%" style="max-width: 100%; height: auto;">
   <p><i>Iron-phosphate Surface</i></p>
   </div>
   <div style="flex: 3; margin-left: 10px;">
@@ -59,7 +59,7 @@ image_sliders:
   <p style="text-align:justify;"> We evaluated the thermodynamic and kinetic properties of neon uptake and release in a sII clathrate hydrate using molecular dynamics simulation, both with and without an applied static electric field. Neon "leakage" from the clathrate into a vacuum was simulated at temperatures from 200 to 225 K for 0.5 μs, observing progressive emptying of cages. Activation energies for release and uptake were calculated and compared with experimental values. Additionally, in the presence electric field, the release activation energy decreased gradually, indicating potentials for controlled gas release from pre-loaded clathrates.</p>  
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/fig/research/3.webp" alt="Clathrate Hydrates" width="65%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/research/3.webp" alt="Yogeshwaran Krishnan" width="65%" style="max-width: 100%; height: auto;">
  <p><i>Clathrate Hydrates</i></p>
   </div>
 </div>
@@ -67,7 +67,7 @@ image_sliders:
 <a href="https://doi.org/10.21203/rs.3.rs-2709219/v1" target="_blank">4. Unifying the Oxygen Reduction and Evolution Reaction with Surface Oxygen and Extracting their Intrinsic Activities on Platinum Catalysts </a>
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 1; text-align: left;">
-    <img src="/assets/fig/research/4.webp" alt="OER/ORR on Pt surface" width="100%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/research/4.webp" alt="Yogeshwaran Krishnan" width="100%" style="max-width: 100%; height: auto;">
   <p><i>OER/ORR on Pt surface</i></p>
   </div>
   <div style="flex: 3; margin-left: 10px;">
@@ -82,7 +82,7 @@ carbon for highly efficient electrocatalysis </a>
   <p style="text-align:justify;"> Novel electrocatalysts, which are essential for developing energy technologies, are made using a simple two-step process. Through the introduction of a heteroatom (N) and ultralow doping (0.06 wt%, Fe), defects are created, hence increasing catalytic activity. Both the hydrogen evolution process (HER) and the oxygen evolution reaction (OER) are enhanced by these defects, which form active sites inside porous channels. The experimental results demonstrate a notable improvement in the kinetics of the reaction, leading to remarkable Tafel and OER overpotential values. Carbon matrix flaws are discovered to optimize the adsorption-desorption process of OER intermediates, a finding corroborated by DFT studies and presenting a possible path toward the development of effective electrocatalysts.</p>  
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/fig/research/5.webp" alt="OER on Fe–N–CHPS" width="75%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/research/5.webp" alt="Yogeshwaran Krishnan" width="75%" style="max-width: 100%; height: auto;">
  <p><i> OER on Fe–N–CHPS</i></p>
   </div>
 </div>
@@ -90,7 +90,7 @@ carbon for highly efficient electrocatalysis </a>
 <a href="http://dx.doi.org/10.1021/acs.jpca.7b01359" target="_blank">6. Classical Dynamics Simulations of Dissociation of Protonated Tryptophan in the Gas Phase </a>
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0px;">
   <div style="flex: 1; text-align: left;">
-    <img src="/assets/fig/research/6.webp" alt="C3 nucleophilic attack" width="100%" style="max-width: 100%; height: auto;">
+    <img src="/assets/fig/research/6.webp" alt="Yogeshwaran Krishnan" width="100%" style="max-width: 100%; height: auto;">
   <p><i>C3 nucleophilic attack</i></p>
   </div>
   <div style="flex: 3; margin-left: 10px;">
