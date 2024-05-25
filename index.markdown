@@ -26,7 +26,7 @@ title: Home
 - Explored the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
 - Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory(DFT)
 - Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
-- I utilize cutting-edge machine learning potentials to advance our understanding and development of energy materials
+- Utilized cutting-edge machine learning potentials to advance our understanding and development of energy materials
 
 ### Doctor of Philosophy at University College Dublin with [Prof. Niall J. English](https://people.ucd.ie/niall.english){:target="_blank"}
 - Investigated Hydrogen production through water splitting for sustainable energy solutions
