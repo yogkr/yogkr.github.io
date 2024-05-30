@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 <!--
-<p><img src="/assets/fig/inde.webp" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
+<p><img src="/assets/fig/index.webp" alt="Yogeshwaran Krishnan" align="middle" width="360px"></p>
 -->
-<p><img src="/assets/fig/inde.webp" alt="Yogeshwaran Krishnan" align="middle" class="responsive-image"></p>
+<p><img src="/assets/fig/index.webp" alt="Yogeshwaran Krishnan" align="middle" class="responsive-image"></p>
 
 <style>
   .responsive-image {
