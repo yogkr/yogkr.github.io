@@ -22,7 +22,7 @@ title: Home
 ## Experience 
 
 ### Postdoctoral Research Associate at Technical University of Denmark (DTU) with [Assoc. Prof. Heine A. Hansen](https://orbit.dtu.dk/en/persons/heine-anton-hansen){:target="_blank"}
-- Led team in creating a [CURATOR](https://github.com/Yangxinsix/curator){:target="_blank"} package that minimize the human effort to develop robust machine learning potential for interface materials
+- Led team in creating a [CURATOR](https://doi.org/10.26434/chemrxiv-2024-p5t3l){:target="_blank"} package that minimize the human effort to develop robust machine learning potential for interface materials
 - Explored the solid-liquid interface, particularly the interaction between gold and acetonitrile, utilizing machine learning potentials
 - Engaged with experimental scientists to investigate polymer degradation mechanisms using Density Functional Theory(DFT)
 - Collaborated with DTU scientists to investigate the ORR/OER reactions, advancing our understanding of energy materials
