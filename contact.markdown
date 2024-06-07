@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Contact
 
-Please fill out the form below to get in touch with me!
+Please fill out the form below to get in touch with me.
 
 <form action="https://formspree.io/f/mayrkaak" method="POST">
   <label for="name">Name: *</label><br>
