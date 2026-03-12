@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Yogeshwaran Krishnan
-email: yogeshwaran.krishna@gmail.com
+email: yogeshwara18@gmail.com
 description: "Yogeshwaran Krishnan"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
