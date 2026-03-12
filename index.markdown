@@ -60,7 +60,7 @@ title: Home
 
 <p style="text-align:justify;">
     For a comprehensive overview of my academic and industrial experiences, please refer to my 
-    <a href="/assets/yogesh-cv.pdf" target="_blank">Curriculum Vitae</a>.
+    <a href="/assets/Academic_CV.pdf" target="_blank">Curriculum Vitae</a>.
 </p>
 <!--
 [Industrial CV](assets/Yogesh_ICV.pdf){:target="_blank"} explore my professional trajectory.
