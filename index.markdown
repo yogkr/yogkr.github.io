@@ -16,7 +16,7 @@ title: Home
 </style>
 
 
-<p style="text-align:justify;">I am a Postdoctoral Research Associate in Energy Storage and Conversion at the Technical University of Denmark, specializing in atomistic modeling for energy materials. My research interests include molecular dynamics (MD), density functional theory (DFT), ab initio molecular dynamics (AIMD), and machine learning. With a background in physics and materials science, I have experience with these techniques and their applications in energy materials and chemistry. My work focuses on catalysis, chemical dynamics, and gas storage.
+<p style="text-align:justify;">I previously worked as a Postdoctoral Research Associate at the Technical University of Denmark, specializing in atomistic modeling of energy materials. My expertise includes molecular dynamics (MD), density functional theory (DFT), ab initio molecular dynamics (AIMD), and machine learning approaches for materials modeling. With a background in physics and materials science, I have applied these computational techniques to study catalysis, chemical reaction dynamics, and gas storage. I am interested in opportunities in academia and industry where I can contribute through research, teaching, and computational modeling.
 </p>
 
 ## Experience 
